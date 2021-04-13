@@ -1,0 +1,7 @@
+node_modules/
+VuejsApp1.*
+.vs/
+bin/
+dist/
+obj/
+.env
