@@ -4,7 +4,6 @@ import 'firebase/auth';
 import 'firebase/analytics';
 import 'firebase/firestore';
 
-console.log(process.env.VUE_APP_API_KEY);
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const objFirebaseConfig = {
